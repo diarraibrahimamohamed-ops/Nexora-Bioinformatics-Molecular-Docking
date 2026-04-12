@@ -15,7 +15,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Accélérer la recherche scientifique.
 
-Fonctionnalités principales
+# Fonctionnalités principales
 1. Recherche et Acquisition de Données
 
     Intégration avec NCBI (recherche directe de séquences).
@@ -68,7 +68,7 @@ Fonctionnalités principales
 
     Basée sur les signatures génomiques déjà connues.
 
-Technologies utilisées
+# Technologies utilisées
 
     Frontend : HTML, CSS, Bootstrap, JavaScript.
 
@@ -78,7 +78,7 @@ Technologies utilisées
 
     Bioinformatique : Traitement FASTA, algorithmes d’analyse génétique, outils de modélisation moléculaire.
 
-Cas d’utilisation
+# Cas d’utilisation
 
     Recherche académique en bioinformatique.
 
@@ -90,7 +90,7 @@ Cas d’utilisation
 
     Projets étudiant biotechnologiques et pharmaceutiques.
 
-Philosophie du projet
+# Philosophie du projet
 
 Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le vivant ; un moyen de transformer des lettres silencieuses (A, T, C, G) en histoires, en structures et en interactions. Là où certains voient du code, Nexora voit une symphonie biologique.
 Évolutions futures
@@ -106,9 +106,12 @@ Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le viva
     Version mobile et dashboard interactif.
     Amélioration pour traiter plus de séquence en déchargeant les calcule lours vers un WebAssembly
 
-Auteur
+# Auteur
 
 Développé par Ibrahima Mohamed Diarra, étudiant L3 en génie logiciel et L1 SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
 Disclaimer
+
+# Contact 
+Email: diarraibrahimamohamed@gmail.com
 
 Nexora est un outil expérimental à visée éducative et de recherche. Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
