@@ -1,0 +1,70 @@
+# Fichiers temporaires et logs
+*.log
+*.tmp
+temp/
+tmp/
+logs/
+cache/
+uploads/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration sensibles
+.env
+.env.local
+.env.production
+API_Key.txt
+base.txt
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers de backup
+backup/
+*.bak
+*.backup
+
+# Fichiers générés par XAMPP/IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Node modules (si ajouté plus tard)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tests et résultats de tests
+test_results/
+*.test
+coverage/
+
+# Documentation générée
+docs/build/
+
+# Fichiers spécifiques à l'environnement
+/opt/lampp/
+xampp/
+
+# Fichiers d'analyse et de docking
+*.pdb
+*.mol2
+*.sdf
+docking_results/
+analysis_results/
+
+# Fichiers de séquences NCBI
+ncbi_sequences/*.fasta
+ncbi_sequences/*.gbk
+
+# Scripts de déploiement temporaires
+deploy_xampp.sh
+test_*.php
+force_update*.php
