@@ -1,4 +1,4 @@
-# </N3XORA>
+# N3XORA
 
 ## Vue d'ensemble
 
