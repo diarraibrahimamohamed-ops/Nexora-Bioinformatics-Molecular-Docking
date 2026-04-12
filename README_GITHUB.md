@@ -1,24 +1,3 @@
-# Nexora - Plateforme Bioinformatique
-
-![Nexora Logo](https://img.shields.io/badge/Nexora-Bioinformatics-blue?style=for-the-badge&logo=biotechnology)
-
-## 🖥️ Interface de Nexora
-
-### Visualisation 3D et Analyse Moléculaire
-![Visualisation 3D](./images/visualization_3d.png)
-*Interface principale avec visualisation 3D des molécules et résultats de docking*
-
-### Analyse de Tétracycline
-![Analyse Tétracycline](./images/tetracycline_analysis.png)
-*Interface d'analyse de la tétracycline avec configuration de docking*
-
-### Résultats de Docking Multiples
-![Poses Multiples](./images/multiple_poses.png)
-*Affichage des 20 poses générées par AutoDock Vina avec énergies*
-
-### Interface Complète d'Analyse
-![Interface Complète](./images/full_interface.png)
-*Tableau de bord avec analyses de séquences, mutations et résultats de docking*
 
 ## Description
 
@@ -41,33 +20,6 @@ Nexora est une plateforme web complète pour l'analyse bioinformatique de séque
 - **Base de données intégrée** : Références croisées avec les banques de données
 - **Rapports détaillés** : Analyses complètes et recommandations
 
-## Architecture
-
-### Domain-Driven Design (DDD)
-```
-src/
-Domain/           # Coeur métier
-  User/           # Gestion utilisateurs
-  Analysis/       # Analyses bioinformatiques
-  Docking/        # Docking moléculaire
-  Ligand/         # Ligands chimiques
-  Bioinformatics/ # Séquences ADN/ARN
-
-Application/      # Services applicatifs
-  Service/        # Cas d'usage
-  Handler/        # Handlers API
-
-Infrastructure/   # Couche technique
-  Database/       # Base de données
-  Cache/          # Système cache
-  Api/            # API REST
-  Security/       # Sécurité
-
-Shared/           # Composants partagés
-  Exception/      # Gestion erreurs
-  ValueObject/    # Value objects
-  Utility/        # Utilitaires
-```
 
 ## Installation
 
@@ -218,7 +170,7 @@ Ce projet est sous licence **GPL (General Public License)** - voir le fichier [L
 
 ## Auteur
 
-**Diarra Ibrahim Mohamed** - [GitHub](https://github.com/diarraibrahimamohamed-ops)
+**Diarra Ibrahima Mohamed** - [GitHub](https://github.com/diarraibrahimamohamed-ops)
 
 ## Remerciements
 
