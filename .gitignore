@@ -1,70 +1,136 @@
-# Fichiers temporaires et logs
+# Nexora Bioinformatics Platform - Git Ignore
+
+# Python files (from GitHub default)
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+*.mo
+*.pot
 *.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+.scrapy
+docs/_build/
+.pybuilder/
+target/
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+.pdm-python
+.pdm-build/
+.pixi
+__pypackages__/
+celerybeat-schedule
+celerybeat.pid
+*.sage.py
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.spyderproject
+.spyproject
+.ropeproject
+/site
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+.abstra/
+.ruff_cache/
+.pypirc
+.cursorignore
+.cursorindexingignore
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# Nexora specific files
 *.tmp
 temp/
 tmp/
 logs/
 cache/
 uploads/
-__pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Fichiers de configuration sensibles
-.env
 .env.local
 .env.production
 API_Key.txt
 base.txt
-
-# Base de données
 *.db
 *.sqlite
 *.sqlite3
-
-# Fichiers de backup
 backup/
 *.bak
 *.backup
-
-# Fichiers générés par XAMPP/IDE
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
 *~
-
-# Node modules (si ajouté plus tard)
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Tests et résultats de tests
 test_results/
 *.test
 coverage/
-
-# Documentation générée
 docs/build/
-
-# Fichiers spécifiques à l'environnement
 /opt/lampp/
 xampp/
-
-# Fichiers d'analyse et de docking
 *.pdb
 *.mol2
 *.sdf
 docking_results/
 analysis_results/
-
-# Fichiers de séquences NCBI
 ncbi_sequences/*.fasta
 ncbi_sequences/*.gbk
-
-# Scripts de déploiement temporaires
 deploy_xampp.sh
 test_*.php
 force_update*.php
