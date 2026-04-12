@@ -87,7 +87,7 @@ Cas d’utilisation
 
     Simulation d’interactions médicament-protéine.
 
-    Projets biotechnologiques et pharmaceutiques.
+    Projets étudiant biotechnologiques et pharmaceutiques.
 
 Philosophie du projet
 
@@ -103,10 +103,11 @@ Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le viva
     Simulation dynamique de protéines (molecular dynamics).
 
     Version mobile et dashboard interactif.
+    Amélioration pour traiter plus de séquence en déchargeant les calcule lours vers un WebAssembly
 
 Auteur
 
-Projet développé par un étudiant en génie logiciel et microbiologie appliquée, avec une vision orientée biotech et innovation.
+Développé par Ibrahima Mohamed Diarra, étudiant L3 en génie logiciel et L1 SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
 Disclaimer
 
 Nexora est un outil expérimental à visée éducative et de recherche. Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
