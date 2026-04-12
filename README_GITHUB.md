@@ -2,6 +2,24 @@
 
 ![Nexora Logo](https://img.shields.io/badge/Nexora-Bioinformatics-blue?style=for-the-badge&logo=biotechnology)
 
+## 🖥️ Interface de Nexora
+
+### Visualisation 3D et Analyse Moléculaire
+![Visualisation 3D](./images/visualization_3d.png)
+*Interface principale avec visualisation 3D des molécules et résultats de docking*
+
+### Analyse de Tétracycline
+![Analyse Tétracycline](./images/tetracycline_analysis.png)
+*Interface d'analyse de la tétracycline avec configuration de docking*
+
+### Résultats de Docking Multiples
+![Poses Multiples](./images/multiple_poses.png)
+*Affichage des 20 poses générées par AutoDock Vina avec énergies*
+
+### Interface Complète d'Analyse
+![Interface Complète](./images/full_interface.png)
+*Tableau de bord avec analyses de séquences, mutations et résultats de docking*
+
 ## Description
 
 Nexora est une plateforme web complète pour l'analyse bioinformatique de séquences ADN/ARN, offrant des fonctionnalités avancées de détection de mutations, d'analyse de résistance aux antibiotiques, et de visualisation 3D.
