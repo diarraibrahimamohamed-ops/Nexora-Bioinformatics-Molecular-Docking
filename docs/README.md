@@ -54,7 +54,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Visualisation des sites actifs.
 
-6. Docking moléculaire
+6. Docking moléculaire (Basée sur Autodock Vina)
 
     Lancement de simulations de docking moléculaire.
 
@@ -67,6 +67,15 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 7. Interprétation
 
     Basée sur les signatures génomiques déjà connues.
+
+8. QSA (Quantum sequence Analyzer)
+
+    C'est une simulation inspiré de certaine formalisme de la mécanique quantique et non un calcul quantique reel appliqué à L'ADN
+   
+   Le concept vise a recuperer les séquence de la base de donnée puis lancer l'analyse de la simulation quantique par superposition en prenant en compte les facteur environnementaux(Temperature,       ph, radiation, agent chimique) ainsi afficher la prédictivité sur les mutation(position, zone fragile, type de mutation)
+   
+   Affichage du score de stabilité
+   
 
 # Technologies utilisées
 
