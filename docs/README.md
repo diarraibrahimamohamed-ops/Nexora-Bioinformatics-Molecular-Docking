@@ -117,7 +117,7 @@ Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le viva
 
 # Auteur
 
-Développé par Ibrahima Mohamed Diarra, étudiant L3 en génie logiciel et L1 SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
+Développé par Ibrahima Mohamed Diarra, étudiant en génie logiciel et SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
 Disclaimer
 
 # Contact 
