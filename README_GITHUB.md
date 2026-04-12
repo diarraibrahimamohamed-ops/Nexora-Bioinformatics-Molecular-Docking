@@ -33,8 +33,8 @@ Nexora est une plateforme web complète pour l'analyse bioinformatique de séque
 
 1. **Cloner le dépôt**
 ```bash
-git clone https://github.com/diarraibrahimamohamed-ops/Nexora.git
-cd Nexora
+git clone https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking.git
+cd Nexora-Bioinformatics-Molecular-Docking
 ```
 
 2. **Déployer avec le script**
