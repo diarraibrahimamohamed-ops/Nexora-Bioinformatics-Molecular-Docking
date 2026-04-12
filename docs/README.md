@@ -1,5 +1,6 @@
-N3XORA — Plateforme Bioinformatique
-Vue d'ensemble
+# N3XORA — Plateforme Bioinformatique
+
+## Vue d'ensemble
 
 Nexora est une plateforme web avancée dédiée à l’analyse bioinformatique des séquences ADN et ARN. Pensée comme un pont entre la biologie moléculaire et l’ingénierie logicielle, elle permet d’explorer, analyser et modéliser des données génétiques de manière intuitive, puissante et visuellement immersive.
 Vision
