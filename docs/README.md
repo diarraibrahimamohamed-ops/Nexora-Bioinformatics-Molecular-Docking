@@ -1,4 +1,4 @@
-# Nexora - Plateforme d'Analyse Bioinformatique
+# </N3XORA>
 
 ## Vue d'ensemble
 
