@@ -1,87 +1,112 @@
-# 🧬 N3XORA — Plateforme Bioinformatique
+N3XORA — Plateforme Bioinformatique
+Vue d'ensemble
 
-## Vue d'ensemble
-
-
-Nexora est une plateforme web avancée dédiée à l’analyse bioinformatique des séquences ADN et ARN.
-Pensée comme un pont entre la biologie moléculaire et l’ingénierie logicielle, elle permet d’explorer, analyser et modéliser des données génétiques de manière intuitive, puissante et visuellement immersive.
-
-🚀 Vision
+Nexora est une plateforme web avancée dédiée à l’analyse bioinformatique des séquences ADN et ARN. Pensée comme un pont entre la biologie moléculaire et l’ingénierie logicielle, elle permet d’explorer, analyser et modéliser des données génétiques de manière intuitive, puissante et visuellement immersive.
+Vision
 
 Dans un monde où les données biologiques explosent, Nexora se positionne comme un laboratoire numérique intelligent capable de :
 
-Décoder le langage du vivant
-Anticiper les mutations
-Simuler les interactions moléculaires
-Accélérer la recherche scientifique
-🔬 Fonctionnalités principales
-🧾 1. Recherche et Acquisition de Données
-🔎 Intégration avec NCBI (recherche directe de séquences)
-📥 Téléchargement automatique des fichiers issus de NCBI
-📂 Import de fichiers biologiques (FASTA)
-🧬 2. Analyse des Séquences ADN / ARN
-📊 Calcul des fréquences nucléotidiques :
-ADN : A, T, C, G
-ARN : A, U, C, G
-🔍 Détection de mutations
-🧪 Analyse de résistance aux antibiotiques (basée sur motifs génétiques)
-🔄 3. Transcription & Traduction
-🔁 Transcription ADN → ARNm
-🔡 Traduction ARNm → Protéines
-🧩 Identification des codons
-📈 Analyse de fréquence des codons
-🧠 4. Analyse avancée des protéines
-📏 Calcul des propriétés protéiques :
-Masse moléculaire
-Composition
-Autres indicateurs biochimiques
-🧬 Génération et visualisation des structures protéiques
-🧊 5. Visualisation 3D immersive
-🧬 Animation 3D des structures protéiques
-🔄 Interaction dynamique avec les modèles
-🎯 Visualisation des sites actifs
-⚗️ 6. Docking moléculaire
-🚀 Lancement de simulations de docking moléculaire
-📊 Affichage des résultats :
-Jusqu’à 20 poses moléculaires
-🧊 Visualisation 3D des interactions ligand-protéine
-🧬 Intégration avec des outils comme Modeller
-7. Interpretation basée sur les signatures Génomique déja connue
-🧰 Technologies utilisées
-💻 Frontend : HTML, CSS, Bootstrap, JavaScript
-⚙️ Backend : PHP / Python (selon modules bioinformatiques)
-🗄️ Base de données : MySQL
-🧬 Bioinformatique :
-FASTA processing
-Algorithmes d’analyse génétique
-Outils de modélisation moléculaire
-🧪 Cas d’utilisation
-Recherche académique en bioinformatique
-Analyse génétique expérimentale
-Études de mutations et résistances bactériennes
-Simulation d’interactions médicament-protéine
-Projets biotech et pharmaceutiques
-🌌 Philosophie du projet
+    Décoder le langage du vivant.
 
-Nexora n’est pas qu’un outil.
+    Anticiper les mutations.
 
-C’est une tentative de dialogue avec le vivant.
-Un moyen de transformer des lettres silencieuses (A, T, C, G) en histoires, en structures, en interactions.
+    Simuler les interactions moléculaires.
 
-Là où certains voient du code…
-Nexora voit une symphonie biologique.
+    Accélérer la recherche scientifique.
 
-🔮 Évolutions futures
-🧠 Intelligence artificielle pour la prédiction de mutations
-☁️ Déploiement cloud pour calcul intensif
-🔗 Intégration avec bases de données biologiques avancées
-🧬 Simulation dynamique de protéines (dynamics)
-📱 Version mobile / dashboard interactif
-👨‍💻 Auteur
+Fonctionnalités principales
+1. Recherche et Acquisition de Données
+
+    Intégration avec NCBI (recherche directe de séquences).
+
+    Téléchargement automatique des fichiers issus de NCBI.
+
+    Import de fichiers biologiques (FASTA).
+
+2. Analyse des Séquences ADN / ARN
+
+    Calcul des fréquences nucléotidiques (ADN : A, T, C, G | ARN : A, U, C, G).
+
+    Détection de mutations.
+
+    Analyse de résistance aux antibiotiques (basée sur des motifs génétiques).
+
+3. Transcription et Traduction
+
+    Transcription ADN vers ARNm.
+
+    Traduction ARNm vers Protéines.
+
+    Identification des codons et analyse de leur fréquence.
+
+4. Analyse avancée des protéines
+
+    Calcul des propriétés protéiques (masse moléculaire, composition, indicateurs biochimiques).
+
+    Génération et visualisation des structures protéiques.
+
+5. Visualisation 3D immersive
+
+    Animation 3D des structures protéiques.
+
+    Interaction dynamique avec les modèles.
+
+    Visualisation des sites actifs.
+
+6. Docking moléculaire
+
+    Lancement de simulations de docking moléculaire.
+
+    Affichage des résultats (jusqu’à 20 poses moléculaires).
+
+    Visualisation 3D des interactions ligand-protéine.
+
+    Intégration avec des outils comme Modeller.
+
+7. Interprétation
+
+    Basée sur les signatures génomiques déjà connues.
+
+Technologies utilisées
+
+    Frontend : HTML, CSS, Bootstrap, JavaScript.
+
+    Backend : PHP / Python (selon les modules bioinformatiques).
+
+    Base de données : MySQL.
+
+    Bioinformatique : Traitement FASTA, algorithmes d’analyse génétique, outils de modélisation moléculaire.
+
+Cas d’utilisation
+
+    Recherche académique en bioinformatique.
+
+    Analyse génétique expérimentale.
+
+    Études de mutations et résistances bactériennes.
+
+    Simulation d’interactions médicament-protéine.
+
+    Projets biotechnologiques et pharmaceutiques.
+
+Philosophie du projet
+
+Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le vivant ; un moyen de transformer des lettres silencieuses (A, T, C, G) en histoires, en structures et en interactions. Là où certains voient du code, Nexora voit une symphonie biologique.
+Évolutions futures
+
+    Intelligence artificielle pour la prédiction de mutations.
+
+    Déploiement cloud pour le calcul intensif.
+
+    Intégration avec des bases de données biologiques avancées.
+
+    Simulation dynamique de protéines (molecular dynamics).
+
+    Version mobile et dashboard interactif.
+
+Auteur
 
 Projet développé par un étudiant en génie logiciel et microbiologie appliquée, avec une vision orientée biotech et innovation.
+Disclaimer
 
-⚠️ Disclaimer
-
-Nexora est un outil expérimental à visée éducative et de recherche.
-Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
+Nexora est un outil expérimental à visée éducative et de recherche. Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
