@@ -170,7 +170,7 @@ Ce projet est sous licence **GPL (General Public License)** - voir le fichier [L
 
 ## Auteur
 
-**Diarra Ibrahima Mohamed** - [GitHub](https://github.com/diarraibrahimamohamed-ops)
+**Ibrahima Mohamed Diarra** - [GitHub](https://github.com/diarraibrahimamohamed-ops)
 
 ## Remerciements
 
