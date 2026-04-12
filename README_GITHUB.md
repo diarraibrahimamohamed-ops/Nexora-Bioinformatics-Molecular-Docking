@@ -214,7 +214,7 @@ docker run -p 80:80 nexora
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour les détails.
+Ce projet est sous licence **GPL (General Public License)** - voir le fichier [LICENSE](LICENSE) pour les détails.
 
 ## Auteur
 
