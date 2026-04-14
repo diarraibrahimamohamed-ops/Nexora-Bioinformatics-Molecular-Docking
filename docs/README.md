@@ -45,8 +45,11 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
     Calcul des propriétés protéiques (masse moléculaire, composition, indicateurs biochimiques).
 
     Génération et visualisation des structures protéiques.
+   
+   ![Texte alternatif](../images/)
 
-5. Visualisation 3D immersive
+
+6. Visualisation 3D immersive
 
     Animation 3D des structures protéiques.
 
@@ -54,7 +57,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Visualisation des sites actifs.
 
-6. Docking moléculaire (Basée sur Autodock Vina)
+7. Docking moléculaire (Basée sur Autodock Vina)
 
     Lancement de simulations de docking moléculaire.
 
@@ -64,11 +67,11 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Intégration avec des outils comme Modeller.
 
-7. Interprétation
+8. Interprétation
 
     Basée sur les signatures génomiques déjà connues.
 
-8. QSA (Quantum sequence Analyzer)
+9. QSA (Quantum sequence Analyzer)
 
     C'est une simulation inspiré de certains formalismes de la mécanique quantique et non un calcul quantique reel appliqué à L'ADN
    
