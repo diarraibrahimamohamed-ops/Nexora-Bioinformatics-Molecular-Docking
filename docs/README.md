@@ -38,16 +38,16 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Traduction ARNm vers Protéines.
 
+     ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-32-05.png)
+
+
     Identification des codons et analyse de leur fréquence.
 
-4. Analyse avancée des protéines
+5. Analyse avancée des protéines
 
     Calcul des propriétés protéiques (masse moléculaire, composition, indicateurs biochimiques).
 
     Génération et visualisation des structures protéiques.
-   
-   ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-32-05.png)
-
 
 6. Visualisation 3D immersive
 
