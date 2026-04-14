@@ -72,7 +72,9 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Intégration avec des outils comme Modeller.
 
-    
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-58-43.png)
+
+     
 9. Interprétation
 
     Basée sur les signatures génomiques déjà connues.
