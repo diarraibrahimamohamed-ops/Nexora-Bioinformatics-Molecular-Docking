@@ -67,11 +67,13 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Intégration avec des outils comme Modeller.
 
-8. Interprétation
+     ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-32-05.png.simple)
+
+9. Interprétation
 
     Basée sur les signatures génomiques déjà connues.
 
-9. QSA (Quantum sequence Analyzer)
+10. QSA (Quantum sequence Analyzer)
 
     C'est une simulation inspiré de certains formalismes de la mécanique quantique et non un calcul quantique reel appliqué à L'ADN
    
