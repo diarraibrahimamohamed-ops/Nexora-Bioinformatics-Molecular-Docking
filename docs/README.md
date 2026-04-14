@@ -67,7 +67,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Visualisation 3D des interactions ligand-protéine.
     
- ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-57-42.png)
+ ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-58-05.png)
 
 
     Intégration avec des outils comme Modeller.
