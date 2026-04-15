@@ -24,9 +24,11 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Import de fichiers biologiques (FASTA).
 
-2. Analyse des Séquences ADN / ARN
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-31-01.png)
 
- ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-31-47.png)
+3. Analyse des Séquences ADN / ARN
+
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-31-47.png)
 
     Calcul des fréquences nucléotidiques (ADN : A, T, C, G | ARN : A, U, C, G).
 
@@ -40,7 +42,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Traduction ARNm vers Protéines.
 
-     ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-32-05.png)
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-32-05.png)
 
 
     Identification des codons et analyse de leur fréquence.
@@ -53,7 +55,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
 6. Visualisation 3D immersive
 
-    ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-29-53.png)
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-29-53.png)
 
     Animation 3D des structures protéiques.
 
@@ -67,11 +69,11 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Affichage des résultats (jusqu’à 20 poses moléculaires).
 
- ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-57-42.png)
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-57-42.png)
 
     Visualisation 3D des interactions ligand-protéine.
     
- ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-58-05.png)
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-15%2014-58-05.png)
 
 
     Intégration avec des outils comme Modeller.
