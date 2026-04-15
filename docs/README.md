@@ -2,7 +2,7 @@
 
 ## Vue d'ensemble
 
-Nexora est une plateforme web avancée dédiée à l’analyse bioinformatique des séquences ADN et ARN. Pensée comme un pont entre la biologie moléculaire et l’ingénierie logicielle, elle permet d’explorer, analyser et modéliser des données génétiques de manière intuitive, puissante et visuellement immersive.
+Nexora est une plateforme web dédiée à l’analyse bioinformatique des séquences ADN et ARN. Pensée comme un pont entre la biologie moléculaire et l’ingénierie logicielle, elle permet d’explorer, analyser et modéliser des données génétiques de manière intuitive, puissante et visuellement immersive.
 Vision
 
 Dans un monde où les données biologiques explosent, Nexora se positionne comme un laboratoire numérique intelligent capable de :
@@ -12,8 +12,6 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
     Anticiper les mutations.
 
     Simuler les interactions moléculaires.
-
-    Accélérer la recherche scientifique.
 
 # Fonctionnalités principales
 1. Recherche et Acquisition de Données
@@ -36,7 +34,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Détection de mutations.
 
-    Analyse de résistance aux antibiotiques (basée sur des motifs génétiques).
+    Analyse de résistance aux antibiotiques (basée sur les mutation).
 
 3. Transcription et Traduction
 
@@ -60,10 +58,6 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-29-53.png)
 
     Animation 3D des structures protéiques.
-
-    Interaction dynamique avec les modèles.
-
-    Visualisation des sites actifs.
 
 7. Docking moléculaire (Basée sur Autodock Vina)
 
@@ -96,7 +90,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-47-12.png)
    
    Affichage du score de stabilité
-   
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-47-31.png)
 
 # Technologies utilisées
 
@@ -138,10 +132,10 @@ Nexora n’est pas qu’un outil. C’est une tentative de dialogue avec le viva
 
 # Auteur
 
-Développé par Ibrahima Mohamed Diarra, étudiant en génie logiciel et SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
+Développé par Ibrahima Mohamed Diarra, étudiant en L3 génie logiciel et L1 SVT option microbiologie appliquée, avec une vision orientée biotech et innovation.
 Disclaimer
 
 # Contact 
 Email: diarraibrahimamohamed@gmail.com
 
-Nexora est un outil expérimental à visée éducative. Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
+Nexora est un outil expérimental à visée éducative encore immature. Les résultats doivent être validés par des méthodes scientifiques rigoureuses avant toute utilisation critique.
