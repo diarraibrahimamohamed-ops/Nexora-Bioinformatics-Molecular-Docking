@@ -26,6 +26,8 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
 2. Analyse des Séquences ADN / ARN
 
+ ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-31-47.png)
+
     Calcul des fréquences nucléotidiques (ADN : A, T, C, G | ARN : A, U, C, G).
 
     Détection de mutations.
