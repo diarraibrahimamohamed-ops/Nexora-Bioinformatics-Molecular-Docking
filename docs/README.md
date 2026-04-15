@@ -20,6 +20,8 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 
     Intégration avec NCBI (recherche directe de séquences).
 
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-44-00.png)
+
     Téléchargement automatique des fichiers issus de NCBI.
 
     Import de fichiers biologiques (FASTA).
