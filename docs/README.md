@@ -92,6 +92,8 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
     C'est une simulation inspiré de certains formalismes de la mécanique quantique et non un calcul quantique reel appliqué à L'ADN
    
    Le concept vise a recuperer les séquence de la base de donnée puis lancer l'analyse de la simulation quantique par superposition en prenant en compte les facteur environnementaux(Temperature,       ph, radiation, agent chimique) ainsi afficher la prédictivité sur les mutation(position, zone fragile, type de mutation)
+
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-47-12.png)
    
    Affichage du score de stabilité
    
