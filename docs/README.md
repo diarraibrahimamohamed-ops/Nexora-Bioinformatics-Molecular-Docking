@@ -80,8 +80,9 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 9. Interprétation
 
     Basée sur les signatures génomiques déjà connues.
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-46-43.png)
 
-10. QSA (Quantum sequence Analyzer)
+11. QSA (Quantum sequence Analyzer)
 
     C'est une simulation inspiré de certains formalismes de la mécanique quantique et non un calcul quantique reel appliqué à L'ADN
    
