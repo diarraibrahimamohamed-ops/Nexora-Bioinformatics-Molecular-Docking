@@ -23,7 +23,7 @@ Dans un monde où les données biologiques explosent, Nexora se positionne comme
 ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-44-00.png)
 
     Téléchargement automatique des fichiers issus de NCBI.
-
+![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-04-15%2007-44-15.png)
     Import de fichiers biologiques (FASTA).
 
 ![Texte alternatif](https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Molecular-Docking/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20du%202026-03-04%2014-31-01.png)
