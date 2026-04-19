@@ -16,8 +16,8 @@ class Environment {
         'DB_PASS' => '', // XAMPP root sans mot de passe
 
         // Clés API (valeurs de test)
-        'NCBI_API_KEY' => '2373e9ee7552a243ca8b71edf1abc172f809',
-        'HUGGINGFACE_API_KEY' => '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',
+        'NCBI_API_KEY' => '',
+        'HUGGINGFACE_API_KEY' => '',
 
         // Configuration application
         'APP_ENV' => 'development',
