@@ -8,7 +8,6 @@ Nexora est une plateforme web complète pour l'analyse bioinformatique de séque
 ### Biologie Moléculaire
 - **Analyse de séquences ADN/ARN** : Transcription, traduction, contenu GC
 - **Détection de mutations** : Identification automatique des variants
-- **Analyse phylogénétique** : Arbres évolutifs et relations entre séquences
 
 ### Docking Moléculaire
 - **Analyse docking** : Simulation d'interactions ligand-protéine
@@ -37,21 +36,14 @@ git clone https://github.com/diarraibrahimamohamed-ops/Nexora-Bioinformatics-Mol
 cd Nexora-Bioinformatics-Molecular-Docking
 ```
 
-2. **Déployer avec le script**
-```bash
-chmod +x deploy_xampp.sh
-./deploy_xampp.sh
-```
+2. **Renommé le fichier fichier clonner sous le nom de Nexora**
+   Deplacer/Copier le dossier Nexora dans le dossier htdocs de xampp 
 
 3. **Configurer la base de données**
 - Ouvrir `http://localhost/phpmyadmin`
 - Importer `legacy/sql/database_schema.sql`
 
-4. **Accéder à l'application**
-- Interface : `http://localhost/nexora/`
-- API : `http://localhost/nexora/api.php`
-
-### Installation manuelle
+  ### Installation manuelle
 
 1. **Base de données**
 ```bash
@@ -71,27 +63,14 @@ cp env.example.php env.php
 chmod 777 cache/ logs/ uploads/ tmp/
 ```
 
-## Utilisation
 
-### Authentification
-- **Email** : `diarra@gmail.com`
-- **Mot de passe** : `ibadia2004@2004`
+4. **Accéder à l'application**
+- Interface : `http://localhost/nexora/`
+- 
+- ### Authentification
+- **Email** : `verifier ce qui cencé etre enregister dans le table user / inscrivez vous via la page d'incription/authentification`
+- **Mot de passe** : `verifier ce qui cencé etre enregister dans le table user / inscrivez vous via la page d'incription/authentification`
 
-### API REST
-
-#### Enregistrement utilisateur
-```bash
-curl -X POST "http://localhost/nexora/api.php?action=register" \
-  -H "Content-Type: application/json" \
-  -d '{"username":"test","email":"test@example.com","password":"password123"}'
-```
-
-#### Analyse de séquence
-```bash
-curl -X POST "http://localhost/nexora/api.php?action=analyze" \
-  -H "Content-Type: application/json" \
-  -d '{"sequence":"ATCGATCG","type":"DNA"}'
-```
 
 ## Documentation
 
@@ -117,29 +96,6 @@ curl -X POST "http://localhost/nexora/api.php?action=analyze" \
 - **Biopython** : Manipulation séquences
 - **AutoDock Vina** : Docking moléculaire
 - **NCBI BLAST** : Alignement de séquences
-
-## Tests
-
-### Tests unitaires
-```bash
-# Tests DDD
-php test_ddd.php
-
-# Tests API
-php test_api_ddd_final.php
-
-# Tests base de données
-php test_db_direct.php
-```
-
-### Tests d'intégration
-```bash
-# Test complet d'authentification
-php test_login.php
-
-# Test docking moléculaire
-python test_enrichment_integration.py
-```
 
 ## Déploiement
 
